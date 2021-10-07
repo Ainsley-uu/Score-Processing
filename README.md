@@ -10,43 +10,7 @@
 
 ## 								<center>**Score Processing**</center>
 
-
-
-
-
-
-
-
-
-<h5>
-    <center>2021-03-28 </center>  
-</h5>             
-
-
-
-
-##### <center>混合1902</center>
-
-
-
-##### <center>余丛杉</center>
-
-
-
-##### <center>3190103165</center>
-
-
-
-
-
-
-
-
-
-
-
-
-<div STYLE="page-break-after: always;"></div>
+> Project for C++
 
 ### 01. Introduction
 
